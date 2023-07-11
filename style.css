@@ -1,0 +1,236 @@
+*{
+      padding: 0px;
+      margin: 0;
+      
+}
+  /* banner-section */ 
+.banner-container{
+      display: flex;
+      align-items: center;
+      background-color:rgba(229, 84, 115, 0.10);
+      padding-right: 150px;
+      padding-left: 100px;     
+}
+.left-side-tex{
+      font-size: large;
+
+}
+.title{
+      margin-bottom: 10px;
+}
+.description{ margin-bottom: 10px;
+
+}
+.btn{
+      color:white;
+      background-color: red;
+      border-style: none;
+      border-radius: 3px;
+      font-size: large;
+      margin-top: 10px;
+}
+ /* second-section */
+.flower{
+      text-align: center;
+      padding-top: 50px;
+}
+.flower-title{
+      display: flex;
+      justify-content: center;
+      padding-top: 30px;
+
+      
+
+}
+.flower-1{
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+align-items: center;
+padding: 20px;
+margin: 20px;
+margin-bottom: 0px;
+height: 400px;
+width: 300px;
+
+}
+.flower-2{
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+align-items: center;
+padding: 20px;
+margin: 20px;
+margin-bottom: 0px;
+height: 400px;
+width: 300px;
+}
+.flower-3{
+      border-radius: 300px 300px 0px 0px;
+      background: rgba(71, 125, 17, 0.15);
+      align-items: center;
+      padding: 20px;
+      margin-top: 20px;
+      height: 400px;
+      width: 300px;
+
+}
+.link{
+      margin-left: 120px;
+}
+.link-2{
+  margin-left: 120px;
+}
+.link-3{
+      margin-left: 120px;
+      justify-content: center;
+      
+}
+
+/* <!-- third-section --> */
+.third-section{
+      display: flex;
+      border-radius: 8px;
+      background: rgba(229, 84, 115, 0.05);
+      justify-content: center;
+      width: 100%px;
+      height: 500px;
+     margin-top: 80px;
+    align-items: center;
+
+
+}
+.login-title{
+      width: 50%;
+      padding: 5%;
+      text-align: center;
+     
+}
+.span-of{
+      color: #E55473;;
+      
+}
+.btn{
+color: white;
+background: #E55473;
+border: none;
+padding: 10px 25px;
+}
+.top-flowe{
+      height: 350px;
+      width: 300px;
+}
+
+/* fourth-section */
+
+.istragram{
+      
+      text-align: center;
+      padding-top: 40px;
+      justify-content: center;
+}
+.instragram-photo{
+      justify-content: center;
+      margin-top: 30px;
+      margin-left: 25px;
+}
+     
+.instragram-photo-1{
+      padding: 20px;
+      height: 300px;
+      padding-top:20px;  
+
+
+}
+.instragram-photo-2{
+      padding: 20px;
+      height: 300px;
+      padding-top:20px;  
+      
+}
+
+.instragram-photo-3{
+      padding: 20px;
+      height: 300px;
+      padding-top:20px;
+
+}
+.instragram-photo-4{
+      padding: 20px;
+      height: 300px;
+      padding-top:20px;
+}
+/* five-section */
+
+.updates-container{
+      text-align: center;
+  }
+  .shopping{
+      text-align: center;
+      padding-top: 100px;
+  }
+  .updates-form{
+      padding-left: 20%;
+      padding-right: 20%;
+      background-image: url("images/Rectangle\ 9.png");
+      background-repeat: no-repeat;
+      height: 400px;
+      width: 400px;
+      margin-left: 20%;
+      margin-top: 20px;
+      border-radius: 5px;
+  }
+  .updates-container form{
+      text-align: center;
+      margin-bottom: 30px;
+  }
+  .email-input{
+      margin-top: 40px;
+      height: 30px;
+      width: 250px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    background-color: #bbb8b5;
+    color: #3a3838;
+    font-weight: bold;
+    margin-left: 30px;
+}
+.subscribe-btn{
+    background-color: #e00833;
+    border-radius: 2px;
+    border: none;
+    font-weight: 600;
+    height: 32px;
+    width: 100px;
+    margin-left: -30px;
+}
+.subscribe-btn a{
+    text-decoration: none;
+    color: #FFF;
+}
+
+/* footer-section */
+footer{
+      background-color: black;
+      height: 140px;
+      text-align: center;
+      margin-top: 70px;
+      padding-top:50px;
+      
+}
+span{
+      color: crimson;
+}
+h3{
+      color: white;
+}
+footer p{
+      font-size:13px ;
+      color: white;
+
+}
+small{
+      color: white;
+}
+.be-humble{
+      color: crimson;
+}
